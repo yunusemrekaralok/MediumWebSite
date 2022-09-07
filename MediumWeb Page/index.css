@@ -1,0 +1,61 @@
+.navbar{
+  position: sticky;
+  top: 0;
+ background-color: #FFC017;
+}
+.navbarbtn{
+    background: #000000;
+    border-radius:  28px;
+    border-width: auto;
+}
+.svg{
+    border-radius: 28px;
+}
+.lınk{
+    color: #757575;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 13px;
+}
+.link{
+    color: black;
+    Word-wrap: break-Word;
+    font-size: 13px;
+    display:inline-block;
+}
+.mfl{
+    color: rgba(230, 230, 230, 1);
+    font-size: 30px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    display:inline-block;
+    font-weight: 700;
+    
+    
+}
+.a {
+    
+    width: 200px; 
+    
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.f16{
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.nbs{
+    font-weight: 400;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+.f22{
+    font-size: 22px;
+    line-height: 28px;
+}
+
+
+.rb{
+    background-color: blanchedalmond;
+    border-width: 1px;
+
+}
